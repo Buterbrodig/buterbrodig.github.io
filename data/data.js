@@ -9,7 +9,7 @@ export const data =
          "id": 1,
          "name": "buterbrodig-1",
          "image": "1.jpg",
-         "price": "150₽"
+         "price": "1200₽"
    },
    {
          "id": 2,
