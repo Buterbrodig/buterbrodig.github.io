@@ -7,183 +7,183 @@ export const data =
 [
    {
          "id": 1,
-         "name": "сигма",
+         "name": "кловер",
          "image": "1.jpg",
-         "price": "77₽"
-   },
-   {
-         "id": 2,
-         "name": "buterbrodig-2",
-         "image": "2.jpg",
-         "price": "200₽"
-   },
-   {
-         "id": 3,
-         "name": "buterbrodig-3",
-         "image": "3.jpg",
-         "price": "300₽"
-   },
-   {
-         "id": 5,
-         "name": "buterbrodig-5",
-         "image": "5.jpg",
-         "price": "500₽"
-   },
-   {
-         "id": 6,
-         "name": "buterbrodig-6",
-         "image": "6.jpg",
-         "price": "600₽"
-   },
-   {
-         "id": 7,
-         "name": "buterbrodig-7",
-         "image": "7.jpg",
-         "price": "700₽"
-   },
-   {
-         "id": 8,
-         "name": "buterbrodig-8",
-         "image": "8.jpg",
          "price": "800₽"
    },
    {
+         "id": 2,
+         "name": "голд",
+         "image": "2.jpg",
+         "price": "1888₽"
+   },
+   {
+         "id": 3,
+         "name": "коруптед3",
+         "image": "3.jpg",
+         "price": "1555₽"
+   },
+   {
+         "id": 5,
+         "name": "фанмен",
+         "image": "5.jpg",
+         "price": "555₽"
+   },
+   {
+         "id": 6,
+         "name": "хайпер",
+         "image": "6.jpg",
+         "price": "400₽"
+   },
+   {
+         "id": 7,
+         "name": "спайдер тв",
+         "image": "7.jpg",
+         "price": "500₽"
+   },
+   {
+         "id": 8,
+         "name": "шеф",
+         "image": "8.jpg",
+         "price": "366₽"
+   },
+   {
          "id": 9,
-         "name": "buterbrodig-9",
+         "name": "берет",
          "image": "9.jpg",
-         "price": "900₽"
+         "price": "55₽"
    },
    {
          "id": 10,
-         "name": "buterbrodig-10",
+         "name": "леприкон",
          "image": "10.jpg",
-         "price": "1000₽"
+         "price": "40"
    },
    {
          "id": 11,
-         "name": "buterbrodig-11",
+         "name": "астро",
          "image": "11.jpg",
-         "price": "1100₽"
+         "price": "45₽"
    },
    {
          "id": 12,
-         "name": "buterbrodig-12",
+         "name": "сигма",
          "image": "12.jpg",
-         "price": "1200₽"
+         "price": "88₽"
    },
    {
          "id": 13,
-         "name": "buterbrodig-13",
+         "name": "шеф клок",
          "image": "13.jpg",
-         "price": "1300₽"
+         "price": "2555₽"
    },
    {
          "id": 14,
-         "name": "buterbrodig-14",
+         "name": "кролик годли",
          "image": "14.jpg",
-         "price": "1400₽"
+         "price": "135₽"
    },
    {
          "id": 15,
-         "name": "buterbrodig-15",
+         "name": "олд годли",
          "image": "15.jpg",
-         "price": "1500₽"
+         "price": "60₽"
    },
    {
          "id": 16,
-         "name": "buterbrodig-16",
+         "name": "хилер тв",
          "image": "16.jpg",
-         "price": "1600₽"
+         "price": "135₽"
    },
    {
          "id": 17,
-         "name": "buterbrodig-17",
+         "name": "дрон",
          "image": "17.jpg",
-         "price": "1700₽"
+         "price": "135₽"
    },
    {
          "id": 18,
-         "name": "buterbrodig-18",
+         "name": "мьюнинг",
          "image": "18.jpg",
-         "price": "1800₽"
+         "price": "30₽"
    },
    {
          "id": 19,
-         "name": "buterbrodig-19",
+         "name": "феерворк",
          "image": "19.jpg",
-         "price": "1900₽"
+         "price": "900₽"
    },
    {
          "id": 20,
-         "name": "buterbrodig-20",
+         "name": "астроган",
          "image": "20.jpg",
-         "price": "2000₽"
+         "price": "60₽"
    },
    {
          "id": 21,
-         "name": "buterbrodig-21",
+         "name": "аква",
          "image": "21.jpg",
-         "price": "2100₽"
+         "price": "1700₽"
    },
    {
          "id": 23,
-         "name": "buterbrodig-23",
+         "name": "песок",
          "image": "23.jpg",
-         "price": "2300₽"
+         "price": "122₽"
    },
    {
          "id": 24,
-         "name": "buterbrodig-24",
+         "name": "инжа",
          "image": "24.jpg",
-         "price": "2400₽"
+         "price": "777₽"
    },
    {
          "id": 25,
-         "name": "buterbrodig-25",
+         "name": "грин",
          "image": "25.jpg",
-         "price": "2500₽"
+         "price": "45₽"
    },
    {
          "id": 26,
-         "name": "buterbrodig-26",
+         "name": "синистер",
          "image": "26.jpg",
-         "price": "2600₽"
+         "price": "35₽"
    },
    {
          "id": 27,
-         "name": "buterbrodig-27",
+         "name": "диджей",
          "image": "27.jpg",
-         "price": "2700₽"
+         "price": "5000₽"
    },
    {
          "id": 28,
-         "name": "buterbrodig-28",
+         "name": "санта",
          "image": "28.jpg",
-         "price": "2800₽"
+         "price": "35₽"
    },
    {
          "id": 29,
-         "name": "buterbrodig-29",
+         "name": "клок уч",
          "image": "29.jpg",
-         "price": "2900₽"
+         "price": "40₽"
    },
    {
          "id": 30,
-         "name": "buterbrodig-30",
+         "name": "мяч",
          "image": "30.jpg",
-         "price": "3000₽"
+         "price": "200₽"
    },
    {
          "id": 31,
-         "name": "buterbrodig-31",
+         "name": "лардж клок",
          "image": "31.jpg",
-         "price": "3100₽"
+         "price": "88₽"
    },
    {
          "id": 32,
-         "name": "buterbrodig-32",
+         "name": "клок вуман",
          "image": "32.jpg",
-         "price": "3200₽"
+         "price": "55₽"
    }
 ]
 
