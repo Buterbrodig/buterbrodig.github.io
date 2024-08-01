@@ -7,7 +7,7 @@ export const data =
 [
    {
          "id": 1,
-         "name": "buterbrodig-1",
+         "name": "сигма",
          "image": "1.jpg",
          "price": "77₽"
    },
