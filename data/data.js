@@ -117,19 +117,19 @@ export const data =
          "id": 20,
          "name": "астроган",
          "image": "20.jpg",
-         "price": "60₽"
+         "price": "50₽"
    },
    {
          "id": 21,
          "name": "аква",
          "image": "21.jpg",
-         "price": "1700₽"
+         "price": "1666₽"
    },
    {
          "id": 23,
          "name": "песок",
          "image": "23.jpg",
-         "price": "122₽"
+         "price": "111₽"
    },
    {
          "id": 24,
