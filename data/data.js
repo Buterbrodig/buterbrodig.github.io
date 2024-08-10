@@ -21,7 +21,7 @@ export const data =
          "id": 3,
          "name": "коруптед3",
          "image": "3.jpg",
-         "price": "1555₽"
+         "price": "1444₽"
    },
    {
          "id": 5,
