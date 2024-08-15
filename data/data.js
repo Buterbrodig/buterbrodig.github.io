@@ -9,7 +9,7 @@ export const data =
          "id": 1,
          "name": "кловер",
          "image": "1.jpg",
-         "price": "800₽"
+         "price": "777₽"
    },
    {
          "id": 2,
@@ -21,19 +21,19 @@ export const data =
          "id": 3,
          "name": "коруптед3",
          "image": "3.jpg",
-         "price": "1444₽"
+         "price": "1222₽"
    },
    {
          "id": 5,
          "name": "фанмен",
          "image": "5.jpg",
-         "price": "555₽"
+         "price": "500₽"
    },
    {
          "id": 6,
          "name": "хайпер",
          "image": "6.jpg",
-         "price": "400₽"
+         "price": "333₽"
    },
    {
          "id": 7,
@@ -51,7 +51,7 @@ export const data =
          "id": 9,
          "name": "берет",
          "image": "9.jpg",
-         "price": "55₽"
+         "price": "22₽"
    },
    {
          "id": 10,
@@ -75,7 +75,7 @@ export const data =
          "id": 13,
          "name": "шеф клок",
          "image": "13.jpg",
-         "price": "2555₽"
+         "price": "2333₽"
    },
    {
          "id": 14,
@@ -87,7 +87,7 @@ export const data =
          "id": 15,
          "name": "олд годли",
          "image": "15.jpg",
-         "price": "60₽"
+         "price": "44₽"
    },
    {
          "id": 16,
@@ -117,25 +117,25 @@ export const data =
          "id": 20,
          "name": "астроган",
          "image": "20.jpg",
-         "price": "50₽"
+         "price": "44₽"
    },
    {
          "id": 21,
          "name": "аква",
          "image": "21.jpg",
-         "price": "1666₽"
+         "price": "1555₽"
    },
    {
          "id": 23,
          "name": "песок",
          "image": "23.jpg",
-         "price": "111₽"
+         "price": "55₽"
    },
    {
          "id": 24,
          "name": "инжа",
          "image": "24.jpg",
-         "price": "777₽"
+         "price": "700₽"
    },
    {
          "id": 25,
@@ -171,7 +171,7 @@ export const data =
          "id": 30,
          "name": "мяч",
          "image": "30.jpg",
-         "price": "155₽"
+         "price": "99₽"
    },
    {
          "id": 31,
