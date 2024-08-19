@@ -39,7 +39,7 @@ export const data =
          "id": 7,
          "name": "спайдер тв",
          "image": "7.jpg",
-         "price": "500₽"
+         "price": "444₽"
    },
    {
          "id": 8,
@@ -111,7 +111,7 @@ export const data =
          "id": 19,
          "name": "феерворк",
          "image": "19.jpg",
-         "price": "900₽"
+         "price": "800₽"
    },
    {
          "id": 20,
@@ -123,7 +123,7 @@ export const data =
          "id": 21,
          "name": "аква",
          "image": "21.jpg",
-         "price": "1555₽"
+         "price": "1222₽"
    },
    {
          "id": 23,
@@ -135,7 +135,7 @@ export const data =
          "id": 24,
          "name": "инжа",
          "image": "24.jpg",
-         "price": "700₽"
+         "price": "666₽"
    },
    {
          "id": 25,
