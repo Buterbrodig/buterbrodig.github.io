@@ -27,13 +27,13 @@ export const data =
          "id": 5,
          "name": "фанмен",
          "image": "5.jpg",
-         "price": "500₽"
+         "price": "477₽"
    },
    {
          "id": 6,
          "name": "хайпер",
          "image": "6.jpg",
-         "price": "333₽"
+         "price": "277₽"
    },
    {
          "id": 7,
@@ -123,7 +123,7 @@ export const data =
          "id": 21,
          "name": "аква",
          "image": "21.jpg",
-         "price": "1222₽"
+         "price": "999₽"
    },
    {
          "id": 23,
@@ -135,7 +135,7 @@ export const data =
          "id": 24,
          "name": "инжа",
          "image": "24.jpg",
-         "price": "666₽"
+         "price": "555₽"
    },
    {
          "id": 25,
