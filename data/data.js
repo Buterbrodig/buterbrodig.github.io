@@ -111,7 +111,7 @@ export const data =
          "id": 19,
          "name": "феерворк",
          "image": "19.jpg",
-         "price": "800₽"
+         "price": "622₽"
    },
    {
          "id": 20,
