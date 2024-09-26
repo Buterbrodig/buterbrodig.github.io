@@ -55,9 +55,9 @@ export const data =
    },
    {
          "id": 10,
-         "name": "леприкон",
-         "image": "10.jpg",
-         "price": "40₽"
+         "name": "пенсил с мечом",
+         "image": "SummP.png",
+         "price": "150₽"
    },
    {
          "id": 11,
