@@ -67,9 +67,9 @@ export const data =
    },
    {
          "id": 12,
-         "name": "сигма",
-         "image": "12.jpg",
-         "price": "88₽"
+         "name": "серп",
+         "image": "Swat.png",
+         "price": "77₽"
    },
    {
          "id": 13,
@@ -91,9 +91,9 @@ export const data =
    },
    {
          "id": 16,
-         "name": "хилер тв",
-         "image": "16.jpg",
-         "price": "135₽"
+         "name": "сворд",
+         "image": "Sword.png",
+         "price": "122₽"
    },
    {
          "id": 17,
