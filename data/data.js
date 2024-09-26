@@ -165,7 +165,7 @@ export const data =
          "id": 29,
          "name": "Saber",
          "image": "Saber.png",
-         "price": "80"
+         "price": "80₽"
    },
    {
          "id": 30,
