@@ -50,7 +50,7 @@ export const data =
    {
          "id": 9,
          "name": "акс",
-         "image": "33.jpg",
+         "image": "Axe.png",
          "price": "350₽"
    },
    {
