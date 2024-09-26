@@ -49,9 +49,9 @@ export const data =
    },
    {
          "id": 9,
-         "name": "берет",
+         "name": "акс",
          "image": "axe.jpg",
-         "price": "33₽"
+         "price": "350₽"
    },
    {
          "id": 10,
