@@ -69,7 +69,7 @@ export const data =
          "id": 12,
          "name": "EternalClockTitan.jpg",
          "image": "EternalClockTitan.jpg",
-         "price": "77₽"
+         "price": "1555₽"
    },
    {
          "id": 13,
