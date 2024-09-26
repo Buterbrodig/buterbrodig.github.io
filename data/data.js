@@ -98,8 +98,8 @@ export const data =
    {
          "id": 17,
          "name": "дрон",
-         "image": "17.jpg",
-         "price": "135₽"
+         "image": "Volcanic.png",
+         "price": "125₽"
    },
    {
          "id": 18,
