@@ -39,7 +39,7 @@ const setItems = () => {
             💎10<span>К ГЕМОВ</span> 380₽
          </li>
          <li>
-            💎100<span>К ГЕМОВ</span> 3000₽
+            💎100<span>К ГЕМОВ</span> 2222₽
          </li>
       </ul>
       `
