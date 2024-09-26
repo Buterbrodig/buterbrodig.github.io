@@ -163,9 +163,9 @@ export const data =
    },
    {
          "id": 29,
-         "name": "MeatBall.jpg",
-         "image": "MeatBall.jpg",
-         "price": "1888₽"
+         "name": "Saber",
+         "image": "Saber.png",
+         "price": "80"
    },
    {
          "id": 30,
