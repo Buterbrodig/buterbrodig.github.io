@@ -79,9 +79,9 @@ export const data =
    },
    {
          "id": 14,
-         "name": "кролик годли",
-         "image": "14.jpg",
-         "price": "135₽"
+         "name": "пенсил вуман",
+         "image": "TitanPencilWoman.png",
+         "price": "750₽"
    },
    {
          "id": 15,
