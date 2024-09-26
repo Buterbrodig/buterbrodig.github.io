@@ -61,9 +61,9 @@ export const data =
    },
    {
          "id": 11,
-         "name": "астро",
-         "image": "11.jpg",
-         "price": "45₽"
+         "name": "бумбокс",
+         "image": "BoomBox.jpg",
+         "price": "333₽"
    },
    {
          "id": 12,
@@ -103,9 +103,9 @@ export const data =
    },
    {
          "id": 18,
-         "name": "мьюнинг",
-         "image": "18.jpg",
-         "price": "30₽"
+         "name": "босс туалет",
+         "image": "BossToilet.png",
+         "price": "180₽"
    },
    {
          "id": 19,
@@ -115,9 +115,9 @@ export const data =
    },
    {
          "id": 20,
-         "name": "астроган",
-         "image": "20.jpg",
-         "price": "44₽"
+         "name": "клок",
+         "image": "Cage.png",
+         "price": "200₽"
    },
    {
          "id": 21,
@@ -127,9 +127,9 @@ export const data =
    },
    {
          "id": 23,
-         "name": "песок",
-         "image": "23.jpg",
-         "price": "55₽"
+         "name": "командер",
+         "image": "Commander.png",
+         "price": "155₽"
    },
    {
          "id": 24,
@@ -145,9 +145,9 @@ export const data =
    },
    {
          "id": 26,
-         "name": "синистер",
-         "image": "26.jpg",
-         "price": "35₽"
+         "name": "диабло",
+         "image": "DTC.jpg",
+         "price": "90₽"
    },
    {
          "id": 27,
@@ -163,9 +163,9 @@ export const data =
    },
    {
          "id": 29,
-         "name": "клок уч",
+         "name": "MeatBall.jpg",
          "image": "29.jpg",
-         "price": "40₽"
+         "price": "1888₽"
    },
    {
          "id": 30,
@@ -182,8 +182,8 @@ export const data =
    {
          "id": 32,
          "name": "клок вуман",
-         "image": "32.jpg",
-         "price": "55₽"
+         "image": "Mogman.png",
+         "price": "120₽"
    }
 ]
 
