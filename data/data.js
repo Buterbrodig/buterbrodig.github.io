@@ -67,8 +67,8 @@ export const data =
    },
    {
          "id": 12,
-         "name": "серп",
-         "image": "Swat.png",
+         "name": "EternalClockTitan.jpg",
+         "image": "EternalClockTitan.jpg",
          "price": "77₽"
    },
    {
