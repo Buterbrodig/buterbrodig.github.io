@@ -15,7 +15,7 @@ export const data =
          "id": 2,
          "name": "голд",
          "image": "2.jpg",
-         "price": "1666₽"
+         "price": "2222₽"
    },
    {
          "id": 3,
@@ -27,25 +27,25 @@ export const data =
          "id": 5,
          "name": "фанмен",
          "image": "5.jpg",
-         "price": "477₽"
+         "price": "350₽"
    },
    {
          "id": 6,
          "name": "хайпер",
          "image": "6.jpg",
-         "price": "277₽"
+         "price": "200₽"
    },
    {
          "id": 7,
          "name": "спайдер тв",
          "image": "7.jpg",
-         "price": "444₽"
+         "price": "350₽"
    },
    {
          "id": 8,
          "name": "шеф",
          "image": "8.jpg",
-         "price": "366₽"
+         "price": "275₽"
    },
    {
          "id": 9,
@@ -75,7 +75,7 @@ export const data =
          "id": 13,
          "name": "шеф клок",
          "image": "13.jpg",
-         "price": "2555₽"
+         "price": "2900₽"
    },
    {
          "id": 14,
@@ -111,7 +111,7 @@ export const data =
          "id": 19,
          "name": "феерворк",
          "image": "19.jpg",
-         "price": "622₽"
+         "price": "444₽"
    },
    {
          "id": 20,
@@ -123,7 +123,7 @@ export const data =
          "id": 21,
          "name": "аква",
          "image": "21.jpg",
-         "price": "855₽"
+         "price": "1111₽"
    },
    {
          "id": 23,
@@ -192,20 +192,20 @@ export const promotion =
 [
    {
       id:1,
-      text:'1000 ГЕМОВ 40₽'
+      text:'1000 ГЕМОВ 30₽'
    },
    {
       id:2,
-      text:'5000 ГЕМОВ 190₽'
+      text:'5000 ГЕМОВ 150₽'
 
    },
    {
       id:3,
-      text:'10К ГЕМОВ 380₽'
+      text:'10К ГЕМОВ 290₽'
 
    },
    {
       id:4,
-      text:'100К ГЕМОВ 3000₽'
+      text:'100К ГЕМОВ 2000₽'
    }
 ]
