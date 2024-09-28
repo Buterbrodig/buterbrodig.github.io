@@ -15,31 +15,31 @@ export const data =
          "id": 2,
          "name": "голд",
          "image": "2.jpg",
-         "price": "2222₽"
+         "price": "2888₽"
    },
    {
          "id": 3,
          "name": "коруптед3",
          "image": "MeatBall.jpg",
-         "price": "1888₽"
+         "price": "2111₽"
    },
    {
          "id": 5,
          "name": "фанмен",
          "image": "5.jpg",
-         "price": "350₽"
+         "price": "377₽"
    },
    {
          "id": 6,
          "name": "хайпер",
          "image": "6.jpg",
-         "price": "200₽"
+         "price": "250₽"
    },
    {
          "id": 7,
          "name": "спайдер тв",
          "image": "7.jpg",
-         "price": "350₽"
+         "price": "444₽"
    },
    {
          "id": 8,
@@ -69,19 +69,19 @@ export const data =
          "id": 12,
          "name": "ETC.png",
          "image": "ETC.png",
-         "price": "1555₽"
+         "price": "1888₽"
    },
    {
          "id": 13,
          "name": "шеф клок",
          "image": "13.jpg",
-         "price": "2900₽"
+         "price": "3200₽"
    },
    {
          "id": 14,
          "name": "пенсил вуман",
          "image": "TitanPencilWoman.png",
-         "price": "750₽"
+         "price": "888₽"
    },
    {
          "id": 15,
@@ -111,7 +111,7 @@ export const data =
          "id": 19,
          "name": "феерворк",
          "image": "19.jpg",
-         "price": "444₽"
+         "price": "555₽"
    },
    {
          "id": 20,
