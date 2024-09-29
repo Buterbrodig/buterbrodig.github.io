@@ -69,7 +69,7 @@ export const data =
          "id": 12,
          "name": "ETC.png",
          "image": "ETC.png",
-         "price": "1888₽"
+         "price": "650₽"
    },
    {
          "id": 13,
