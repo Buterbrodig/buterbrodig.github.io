@@ -206,6 +206,6 @@ export const promotion =
    },
    {
       id:4,
-      text:'100К ГЕМОВ 3500₽'
+      text:'100К ГЕМОВ 3555₽'
    }
 ]
