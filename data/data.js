@@ -9,7 +9,7 @@ export const data =
          "id": 1,
          "name": "кловер",
          "image": "1.jpg",
-         "price": "666₽"
+         "price": "800₽"
    },
    {
          "id": 2,
@@ -27,61 +27,61 @@ export const data =
          "id": 5,
          "name": "фанмен",
          "image": "5.jpg",
-         "price": "377₽"
+         "price": "485₽"
    },
    {
          "id": 6,
          "name": "хайпер",
          "image": "6.jpg",
-         "price": "250₽"
+         "price": "299₽"
    },
    {
          "id": 7,
          "name": "спайдер тв",
          "image": "7.jpg",
-         "price": "444₽"
+         "price": "555₽"
    },
    {
          "id": 8,
          "name": "шеф",
          "image": "8.jpg",
-         "price": "275₽"
+         "price": "333₽"
    },
    {
          "id": 9,
          "name": "акс",
          "image": "Axe.png",
-         "price": "350₽"
+         "price": "388₽"
    },
    {
          "id": 10,
          "name": "пенсил с мечом",
          "image": "SummP.png",
-         "price": "150₽"
+         "price": "99₽"
    },
    {
          "id": 11,
          "name": "бумбокс",
          "image": "BoomBox.jpg",
-         "price": "333₽"
+         "price": "350₽"
    },
    {
          "id": 12,
          "name": "ETC.png",
          "image": "ETC.png",
-         "price": "650₽"
+         "price": "555₽"
    },
    {
          "id": 13,
          "name": "шеф клок",
          "image": "13.jpg",
-         "price": "3200₽"
+         "price": "3888₽"
    },
    {
          "id": 14,
          "name": "пенсил вуман",
          "image": "TitanPencilWoman.png",
-         "price": "888₽"
+         "price": "655₽"
    },
    {
          "id": 15,
@@ -105,13 +105,13 @@ export const data =
          "id": 18,
          "name": "босс туалет",
          "image": "BossToilet.png",
-         "price": "180₽"
+         "price": "222₽"
    },
    {
          "id": 19,
          "name": "феерворк",
          "image": "19.jpg",
-         "price": "555₽"
+         "price": "600₽"
    },
    {
          "id": 20,
@@ -135,7 +135,7 @@ export const data =
          "id": 24,
          "name": "инжа",
          "image": "24.jpg",
-         "price": "555₽"
+         "price": "650₽"
    },
    {
          "id": 25,
@@ -153,13 +153,13 @@ export const data =
          "id": 27,
          "name": "диджей",
          "image": "27.jpg",
-         "price": "4777₽"
+         "price": "5555₽"
    },
    {
          "id": 28,
          "name": "санта",
          "image": "28.jpg",
-         "price": "35₽"
+         "price": "37₽"
    },
    {
          "id": 29,
@@ -177,7 +177,7 @@ export const data =
          "id": 31,
          "name": "лардж клок",
          "image": "31.jpg",
-         "price": "88₽"
+         "price": "99₽"
    },
    {
          "id": 32,
