@@ -63,13 +63,13 @@ export const data =
          "id": 11,
          "name": "бумбокс",
          "image": "BoomBox.jpg",
-         "price": "350₽"
+         "price": "270₽"
    },
    {
          "id": 12,
          "name": "ETC.png",
          "image": "ETC.png",
-         "price": "555₽"
+         "price": "377₽"
    },
    {
          "id": 13,
@@ -93,7 +93,7 @@ export const data =
          "id": 16,
          "name": "сворд",
          "image": "Sword.png",
-         "price": "122₽"
+         "price": "99₽"
    },
    {
          "id": 17,
@@ -153,7 +153,7 @@ export const data =
          "id": 27,
          "name": "диджей",
          "image": "27.jpg",
-         "price": "5555₽"
+         "price": "4777₽"
    },
    {
          "id": 28,
