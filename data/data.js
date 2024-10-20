@@ -9,49 +9,49 @@ export const data =
          "id": 1,
          "name": "кловер",
          "image": "1.jpg",
-         "price": "800₽"
+         "price": "444₽"
    },
    {
          "id": 2,
          "name": "голд",
          "image": "2.jpg",
-         "price": "2888₽"
+         "price": "1200₽"
    },
    {
          "id": 3,
          "name": "коруптед3",
          "image": "MeatBall.jpg",
-         "price": "2111₽"
+         "price": "1500₽"
    },
    {
          "id": 5,
          "name": "фанмен",
          "image": "5.jpg",
-         "price": "485₽"
+         "price": "277₽"
    },
    {
          "id": 6,
          "name": "хайпер",
          "image": "6.jpg",
-         "price": "299₽"
+         "price": "133₽"
    },
    {
          "id": 7,
          "name": "спайдер тв",
          "image": "7.jpg",
-         "price": "555₽"
+         "price": "255₽"
    },
    {
          "id": 8,
          "name": "шеф",
          "image": "8.jpg",
-         "price": "333₽"
+         "price": "177₽"
    },
    {
          "id": 9,
          "name": "акс",
          "image": "Axe.png",
-         "price": "388₽"
+         "price": "166₽"
    },
    {
          "id": 10,
@@ -63,25 +63,25 @@ export const data =
          "id": 11,
          "name": "бумбокс",
          "image": "BoomBox.jpg",
-         "price": "270₽"
+         "price": "177₽"
    },
    {
          "id": 12,
          "name": "ETC.png",
          "image": "ETC.png",
-         "price": "377₽"
+         "price": "144₽"
    },
    {
          "id": 13,
          "name": "шеф клок",
          "image": "13.jpg",
-         "price": "3888₽"
+         "price": "1888₽"
    },
    {
          "id": 14,
          "name": "пенсил вуман",
          "image": "TitanPencilWoman.png",
-         "price": "655₽"
+         "price": "377₽"
    },
    {
          "id": 15,
@@ -105,19 +105,19 @@ export const data =
          "id": 18,
          "name": "босс туалет",
          "image": "BossToilet.png",
-         "price": "222₽"
+         "price": "111₽"
    },
    {
          "id": 19,
          "name": "феерворк",
          "image": "19.jpg",
-         "price": "600₽"
+         "price": "288₽"
    },
    {
          "id": 20,
          "name": "клок",
          "image": "Cage.png",
-         "price": "200₽"
+         "price": "88₽"
    },
    {
          "id": 21,
